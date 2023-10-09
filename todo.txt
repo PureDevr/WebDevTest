@@ -1,0 +1,1 @@
+- Find a Python Image Manipulation Library (ChatGPT Suggested Pillow)
